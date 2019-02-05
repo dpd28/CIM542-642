@@ -31,9 +31,13 @@ OK, this was fun. I did have some issues:
 
 That took me awhile to figure out but I did - yay me.
 
+#### Space Ship Videos
+
 [Space Ship circuitry](https://youtu.be/OhQqHxNC8L4)
 
 [Space Ship with a fancy cover](https://youtu.be/yc8WKyt32UQ)
+
+#### Photos
 
 ![Circuit in progress](https://github.com/dpd28/CIM542-642/blob/master/images/arduio_spaceShip_IMG_6247.JPG)
 
