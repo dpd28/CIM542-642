@@ -43,4 +43,4 @@ That took me awhile to figure out but I did - yay me.
 
 ![Finished circuit](https://github.com/dpd28/CIM542-642/blob/master/images/arduino_spaceShip_IMG_6275.JPG)
 
-Here is the ![finished code](https://github.com/dpd28/CIM542-642/blob/master/Space_On_jan30a/sketch_jan30a/sketch_jan30a.ino)
+Here is the [finished code](https://github.com/dpd28/CIM542-642/blob/master/Space_On_jan30a/sketch_jan30a/sketch_jan30a.ino)
