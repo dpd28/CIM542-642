@@ -14,9 +14,13 @@ Thinking, thinking, thinking … I used to feel like I needed to draw as a desig
 
 So this closet uses a screen interaction which probably doesn't fit the physical computing aspect of the project but I thought about inputs and outputs just the same.  The interactions are also based on having geolocation and other "auto" features to make the inputs easier (read: minimal touching, typing, etc.)
 
-I didn't think too much about how the clothes get into the suitcase (because its magic) but that would be a big next step if I ever wanted to make this a reality.
+I didn't think too much about how the clothes get into the suitcase (because its magic) but that would be a big next step if I ever wanted to make this a reality - in another universe.
 
 ![Scenes 4-5](https://github.com/dpd28/CIM542-642/blob/master/images/2019-01-24-0002.JPG)
+
+4. Confirmation of selections
+
+5. Suitcase/Bag and the outfit guide is ready.
 
 My favorite part about this magical closet (I'm allowed to love my idea, right?) is that it provides you with a printout (or a digital note) of how to mix and match the items it has packed for you.
 
