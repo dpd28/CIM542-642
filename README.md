@@ -16,6 +16,17 @@ So this closet uses a screen interaction which probably doesn't fit the physical
 
 I didn't think too much about how the clothes get into the suitcase (because its magic) but that would be a big next step if I ever wanted to make this a reality - in another universe.
 
+1. User touches screen to turn it on (lights up). When in the off position, the screen is glowing some relaxing colors.
+
+2. User inputs the following
+* Dates of travel
+* Location (weather info downloaded)
+* Activities: Select from choices and input others
+* Transportation: Airline / Train / Car / Bus (auto download information e.g. flight details)
+* Query: Will the user be shopping?
+
+3. Add the bag or suitcase to the slideout. Lights and audio also provide feedback based on the weight sensor.
+
 ![Scenes 4-5](https://github.com/dpd28/CIM542-642/blob/master/images/2019-01-24-0002.JPG)
 
 4. Confirmation of selections
