@@ -59,3 +59,23 @@ That took me awhile to figure out but I did - yay me.
 ![Finished circuit](https://github.com/dpd28/CIM542-642/blob/master/images/arduino_spaceShip_IMG_6275.JPG)
 
 Here is the [finished code](https://github.com/dpd28/CIM542-642/blob/master/Space_On_jan30a/sketch_jan30a/sketch_jan30a.ino)
+
+## Week 3
+
+### One Button
+
+[Remember to add one button]
+
+## Week 4
+
+### Love-o-Meter
+
+[Love-o-Meter exercise](https://youtu.be/DOpJ4ziAJs0)
+
+This was fun. I got it to work and while the heat wasn't significant, it was enough to get the LEDs to change.
+
+### Color Mixing Lamp
+
+[Color Mixing Lamp exercise](https://youtu.be/JNj60dFvf-8)
+
+For this exercise I really wish there had been the parts that would hold the filters on the photo sensors. I got a pink to purple color light and would liked to have seen more variety but something wasn't working; not sure yet what after trying different things … I tried this with shining my bike light but wasn't sure if anything was actually different.

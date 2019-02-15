@@ -41,8 +41,8 @@ void loop() {
   Serial.println(blueSensorValue);
 
   redValue = 100/4;
-  greenValue = 50/4;
-  blueValue = 50/4;
+  greenValue = 100/4;
+  blueValue = 100/4;
 
   Serial.print("Mapped Sensor Values \t Red: ");
   Serial.print(redValue);
@@ -51,7 +51,7 @@ void loop() {
   Serial.print("\t Blue: ");
   Serial.print(blueValue);
 
-  analogWrite(redLEDPin, 12);
-  analogWrite(greenLEDPin, 12);
-  analogWrite(blueLEDPin, 12);
+  analogWrite(redLEDPin, 50);
+  analogWrite(greenLEDPin, 50);
+  analogWrite(blueLEDPin, 50);
 }
