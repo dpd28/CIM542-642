@@ -20,6 +20,7 @@ void setup() {
   pinMode(led2, OUTPUT);
 }
 
+
 void loop() {
   // put your main code here, to run repeatedly:
   switchRead = digitalRead(switchPin);
@@ -31,7 +32,7 @@ void loop() {
   // check is button HIGH or LOW? Is button pressed or released?
 
   if (switchRead == HIGH) {
-    //    counter = counter + 1; // how to track when user presses, capture a state — change between when the user presses
+    //    counter = counter + 1; // The user is pressing the button. how to track when user presses, capture a state — change between when the user presses
     //    Serial.println(counter);
     wasPressed = true;
   }
