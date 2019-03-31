@@ -113,6 +113,7 @@ I chose to track and observe people as I walked around campus and during activit
 ## Week 10
 
 Check out my midterm project here (URL) in more detail.
+Not sure why this link isn't working :-(
 
 ## Week 11
 
