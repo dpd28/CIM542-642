@@ -100,7 +100,13 @@ I chose to track and observe people as I walked around campus and during activit
 
 ## Week 8
 
-Midterm Slides
+![Slide 1](CIM542-642/images/haptic-music-proposal.001.jpg)
+![Slide 2](CIM542-642/images/haptic-music-proposal.002.jpg)
+![Slide 3](CIM542-642/images/haptic-music-proposal.003.jpg)
+![Slide 4](CIM542-642/images/haptic-music-proposal.004.jpg)
+![Slide 5](CIM542-642/images/haptic-music-proposal.005.jpg)
+![Slide 6](CIM542-642/images/haptic-music-proposal.006.jpg)
+![Slide 7](CIM542-642/images/haptic-music-proposal.007.jpg)
 
 ## Week 9  - SPRING break
 
