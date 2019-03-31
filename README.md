@@ -96,7 +96,8 @@ I chose to track and observe people as I walked around campus and during activit
 
 ## Week 7
 
-*Deb add the ideation brainstorm here*
+![Ideation full](https://github.com/dpd28/CIM542-642/blob/master/images/ideation_IMG_7871.jpg)
+![ideation detail](https://github.com/dpd28/CIM542-642/blob/master/images/ideation_IMG_7872.jpg)
 
 ## Week 8
 
