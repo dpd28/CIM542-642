@@ -94,6 +94,8 @@ I chose to track and observe people as I walked around campus and during activit
 
 ### Knock Lock
 
+(Deb - add the knock lock assignment!)
+
 ## Week 7
 
 ![Ideation full](https://github.com/dpd28/CIM542-642/blob/master/images/ideation_IMG_7871.jpg)
