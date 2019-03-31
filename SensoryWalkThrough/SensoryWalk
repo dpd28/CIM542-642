@@ -1,0 +1,86 @@
+# Sensory Walk:
+
+## Microwave
+*Location*: University of Miami Food Court
+
+### inputs
+
+### outputs
+
+## Automatic Door
+*Location*: International Building, School of Communication
+
+### inputs
+
+### outputs
+
+## Entrance Gate
+*Location*: Richter Library, University of Miami
+
+Human steps in front of the gate.
+
+### inputs
+Slides university ID through the card reader
+
+
+### outputs
+Lights
+Green is go
+Audio "click" gives feedback for "go"
+Red is no go
+Turnstile will not move
+
+## 4
+*Location*: Drinking Fountain, Whitten Center
+
+### inputs
+Swipe card
+
+### outputs
+Click sound
+Green light
+
+## 5
+*Location*: Richter Library, University of Miami
+
+### inputs
+
+
+### outputs
+
+## Faucet and Soap Dispenser
+*Location*: Women's Restroom, 1st Floor, Broadcast Journalism Area
+
+### inputs
+Person waves hand near sensor (or under faucet)
+Person places hand under soap dispenser
+
+### outputs
+Water comes out of faucet
+
+Soap comes out of the dispenser with audio feedback
+
+
+Sensor Walk - Go to a public area, A park, Food Court, Mall, Etc
+Find 6 points of interaction between people and electronics, mechanical devices, signage, or any other areas of high traffic
+What are the inputs?
+Find switches, levers, buttons, visual aids
+Are the inputs active(electronic or mechanical) or passive
+If Active
+What is the sensor?
+What triggers the sensor?
+If Passive
+What is the User doing?
+Are they walking up?
+What are the outputs?
+Lights, sound, motors, signage
+Is the output active or passive
+If Active,
+What does it do when triggered?
+If Passive
+What is it?
+Map
+Sign
+Research Parts
+Based on 3 inputs/outputs from the Sensor Walk, research potential sensors used in the input or output
+Search in amazon, adafruit, and sparkfun, robotshop for potential matches
