@@ -93,26 +93,28 @@ In its current iteration, it isn't very portable but after connecting it to the 
 
 **Create a layout for your interface**
 
-**Storyboard the interaction**
+*Not sure what this means … layout for interface?*
+
+### Storyboard the interaction
 
 **Draw a step by step diagram of the interaction**
 
 (Deb - add your flow chart)
-		**Explain how the project is used?**
 
-		**How does the user interact with the input**
+### Explain how the project is used?**
 
-			**Note:** In a future iteration, the user would be able to turn the device off and on since without a switch, it would vibrate for every type of noise that falls within the threshold. I think the GemmaM0 actually has a switch but not sure if it is accessible by a person when encased.
+**How does the user interact with the input**
 
-			**Why did you decide to use that component?**
+In a future iteration, the user would be able to put the wearable device on their wrist and be able to turn the device off and on since without a switch, it would vibrate for every type of noise that falls within the threshold. I think the GemmaM0 actually has a switch but not sure if it is accessible by a person when encased. By placing on the wrist, people don't have to hold anything or deal with managing wires, etc. All they need to do is turn it on and then off to feel the vibrations of the music. 
 
-			As mentioned before I started with the PING distance sensor but that wasn't the type of input I wanted to capture. My goal was to create a music listening device for people who cannot hear at all or have minimal hearing so I needed to have a component that would "capture" frequencies. After some Googling, I discovered the Electret mic.
+**Why did you decide to use that component?**
 
-			**Explain how the input translates to the output**
+As mentioned before I started with the PING distance sensor but that wasn't the type of input I wanted to capture. My goal was to create a music listening device for people who cannot hear at all or have minimal hearing so I needed to have a component that would "capture" frequencies. After some Googling, I discovered the Electret mic.
+**Explain how the input translates to the output**
 
-			So this device uses analogRead and analogWrite to function in addition to a library for the haptic controller. The analog functions allow for a range of averaged values compared to digital functions.
+So this device uses analogRead and analogWrite to function in addition to a library for the haptic controller. The analog functions allow for a range of averaged values compared to digital functions.
 
-			The Electret Mic amplifier (input), powered through the Arduino through pin 3.3v, changes the voltage through Pin A0 and translates back to the arduino to change the values to the haptic controller/vibration disc (output, powered through pin 5v) using the `map` function (min and max values). The converted values are sent through Pin 9 using pulse wave modulation (PWM). So the intensity of the vibration and when the vibration is triggered depends on the analog values received from the electret mic.
+The Electret Mic amplifier (input), powered through the Arduino through pin 3.3v, changes the voltage through Pin A0 and translates back to the arduino to change the values to the haptic controller/vibration disc (output, powered through pin 5v) using the `map` function (min and max values). The converted values are sent through Pin 9 using pulse wave modulation (PWM). So the intensity of the vibration and when the vibration is triggered depends on the analog values received from the electret mic.
 
 **Talk about what form factor/size your project would ideally be.**
 
