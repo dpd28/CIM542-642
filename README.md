@@ -79,3 +79,43 @@ This was fun. I got it to work and while the heat wasn't significant, it was eno
 [Color Mixing Lamp exercise](https://youtu.be/JNj60dFvf-8)
 
 For this exercise I really wish there had been the parts that would hold the filters on the photo sensors. I got a pink to purple color light and would liked to have seen more variety but something wasn't working; not sure yet what after trying different things … I tried this with shining my bike light but wasn't sure if anything was actually different.
+
+## Week 5
+
+No Homework
+
+## Week 6
+
+### Sensory Walk
+
+I chose to track and observe people as I walked around campus and during activities. One interaction was done at my apartment building. The number of interactions are many so I chose to focus on physical interactions since screen-based interaction are difficult to observe from a distance. Most of the interactions are active and provide visible or auditory feedback.
+
+[Here's a breakdown of what I observed](https://github.com/dpd28/CIM542-642/blob/master/SensoryWalkThrough/SensoryWalk.md) and what I believe to be the inputs, outputs and types of sensors used. I had a challenging time trying to match sensors.
+
+### Knock Lock
+
+## Week 7
+
+*Deb add the ideation brainstorm here*
+
+## Week 8
+
+Midterm Slides
+
+## Week 9  - SPRING break
+
+## Week 10
+
+Check out my midterm project here (URL) in more detail.
+
+## Week 11
+
+3D Printing project!
+
+## Week 12 - Make
+
+## Week 13 - Make
+
+## Week 14 - Make
+
+## Week 15 - Final!
