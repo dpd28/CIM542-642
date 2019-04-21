@@ -17,6 +17,7 @@ void setup() {
 void loop() {
   // put your main code here, to run repeatedly:
   audioRead = analogRead(audioIn);
+  Serial.println(audioRead);
 
   // analog inputs 0-1023
   // analog outputs analogWrite 0-255 / map or float
