@@ -9,11 +9,24 @@ More background about this project is here as this is an extension of my midterm
 ### The Ardunio FFT library
 This made my head hurt when reading through documentation about Fournier Frequency Transformation but the reason for using this library is to help translate the music through the microphone into different vibrations; meaning: reflect the variations and range of musical intonation.
 
+![FFT Lesson in PWM](https://github.com/dpd28/CIM542-642/blob/master/images/FFT_IMG_8050.JPG)
+
 ### The GemmaM0
 This is a small, lightweight microcontroller; one I wanted to use because I wanted to make this project into a wearable. For audio translation, the Uno is slower and the size is too clunky to use in a wearable project.
 
 ### Leather Encasement
-![]()
+![Sketches](https://github.com/dpd28/CIM542-642/blob/master/images/Wrist-Band-v2-IMG_8053.JPG)
+![Paper test v1](https://github.com/dpd28/CIM542-642/blob/master/images/Wrist-Band-v3-Paper-IMG_8380.JPG)
+![Paper test v1 Cricut](https://github.com/dpd28/CIM542-642/blob/master/images/Wrist-Band-v3-Paper-IMG_8378.JPG)
+![Paper test v2](https://github.com/dpd28/CIM542-642/blob/master/images/Wrist-Band-v4-Paper-IMG_8387.JPG)
+![Leather tough v1](https://github.com/dpd28/CIM542-642/blob/master/images/Wrist-Band-Leather-IMG_8433.JPG)
+![Softer leather](https://github.com/dpd28/CIM542-642/blob/master/images/LeatherBlack_circuit_IMG_8519.JPG)
+![Red leather xacto](https://github.com/dpd28/CIM542-642/blob/master/images/LeatherRed_circuit_IMG_8549.JPG)
+
+![Snaps](https://github.com/dpd28/CIM542-642/blob/master/images/Snap01_IMG_8587.JPG)
+![Snaps 2](https://github.com/dpd28/CIM542-642/blob/master/images/Snap02_IMG_8590.JPG)
+![Snap ring random](https://github.com/dpd28/CIM542-642/blob/master/images/Snap03_IMG_8595.JPG)
+
 In the midterm version, I used a small box as the encasement. Because the goal was to make this wearable — attractive, lightweight, portable — I focused on making a wristband. I looked to jewelry design for inspiration and stumbled upon Adafruit's design for their [meditation bracelet](https://learn.adafruit.com/buzzing-mindfulness-bracelet/overview). The design is quite functional given the following:
 
 * The wearer needs access to the on/off switch
@@ -29,6 +42,10 @@ Where do I start?
 *Disoriented*: An unfamiliar microcontroller made me feel turned around so I had to map it out on paper.
 
 *Fried GemmaM0*: I think I fried the microcontroller as I was refining the code. _Amazing_. This was a lesson to have a backup microcontroller on hand. Still, I used the Uno to keep testing. I gotta say, being able to _know_ to do that was a relief. Panic diverted.
+
+![Arduino Uno backup](https://github.com/dpd28/CIM542-642/blob/master/images/IMG_8645.JPG)
+
+![Testing code](https://github.com/dpd28/CIM542-642/blob/master/images/Mapping_IMG_8643.JPG)
 
 *Leather and the Cricut*: Holy Hannah. The softer the leather, the greater the fuzzy explosion. Here are a few tips:
 
