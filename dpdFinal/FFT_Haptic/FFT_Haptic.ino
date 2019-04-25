@@ -120,7 +120,7 @@ void PrintVector(double *vData, uint16_t bufferSize, uint8_t scaleType)
 //        abscissa = ((i * 1.0 * samplingFrequency) / samples);
 //	break;
 //    }
-    if(vData[i] > 7 && vData[i] < 15){ //  low, mid, high values 1024 is top - abscissa > 400 && abscissa < 500
+    if(vData[i] > 7 && vData[i] < 50){ //  low, mid, high values 1024 is top - abscissa > 400 && abscissa < 500
         // Serial.print(abscissa, 6);
   //  if(scaleType==SCL_FREQUENCY)
       Serial.print("Hz ");
@@ -129,23 +129,18 @@ void PrintVector(double *vData, uint16_t bufferSize, uint8_t scaleType)
     Serial.println(vData[i], 4);
         Serial.print(" ");
 
-  cur = map(vData[i], 1, 15, 0, 255); // first is audio input, second is haptic output
+  cur = map(vData[i], 1, 50, 0, 255); // first is audio input, second is haptic output
  
     Serial.print("this is cur ");
   Serial.println(cur);
-  Serial.print("this is abscissa ");
-  Serial.print(abscissa);
+//  Serial.print("this is abscissa "); // so long abscissa!
+//  Serial.print(abscissa);
 
     }
     else if(vData[i] < 7 || vData[i] == 7){
       cur = 0;
     }
      analogWrite (6, cur);
-
-    
-
-    
- 
 
   }
   Serial.println();
