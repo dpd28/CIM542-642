@@ -1,4 +1,4 @@
-/*
+  /*
 
 	Example of use of the FFT libray to compute FFT for a signal sampled through the ADC.
         Copyright (C) 2018 Enrique Condés and Ragnar Ranøyen Homb
@@ -21,6 +21,14 @@
 #include "arduinoFFT.h"
 
 arduinoFFT FFT = arduinoFFT(); /* Create FFT object */
+
+// IN PIN - Audio - is A0
+// OUT PIN - Vibrate - is 6 or Gemma A1
+
+double cur;
+
+
+
 /*
 These values can be changed in order to evaluate the functions
 */
@@ -100,30 +108,39 @@ void PrintVector(double *vData, uint16_t bufferSize, uint8_t scaleType)
   {
     double abscissa;
     /* Print abscissa value */
-    switch (scaleType)
-    {
-      case SCL_INDEX:
-        abscissa = (i * 1.0);
-	break;
-      case SCL_TIME:
-        abscissa = ((i * 1.0) / samplingFrequency);
-	break;
-      case SCL_FREQUENCY:
-        abscissa = ((i * 1.0 * samplingFrequency) / samples);
-	break;
-    }
-    if(abscissa > 400 && abscissa < 500){
-         Serial.print(abscissa, 6);
-    if(scaleType==SCL_FREQUENCY)
-      Serial.print("Hz");
-    Serial.print(" ");
-    Serial.print(vData[i], 4);
+//    switch (scaleType)
+//    {
+//      case SCL_INDEX:
+//        abscissa = (i * 1.0);
+//	break;
+//      case SCL_TIME:
+//        abscissa = ((i * 1.0) / samplingFrequency);
+//	break;
+//      case SCL_FREQUENCY:
+//        abscissa = ((i * 1.0 * samplingFrequency) / samples);
+//	break;
+//    }
+    if(vData[i] > 7 && vData[i] < 15){ //  low, mid, high values 1024 is top - abscissa > 400 && abscissa < 500
+        // Serial.print(abscissa, 6);
+  //  if(scaleType==SCL_FREQUENCY)
+      Serial.print("Hz ");
+    Serial.println(" ");
+    Serial.print("VDATA: ");
+    Serial.println(vData[i], 4);
         Serial.print(" ");
 
-        //float cur = map(vData[i],);
-        //analogwrite
-        
+  cur = map(vData[i], 1, 15, 0, 255); // first is audio input, second is haptic output
+ 
+    Serial.print("this is cur ");
+  Serial.println(cur);
+  Serial.print("this is abscissa ");
+  Serial.print(abscissa);
+
     }
+    else if(vData[i] < 7 || vData[i] == 7){
+      cur = 0;
+    }
+     analogWrite (6, cur);
 
     
 
