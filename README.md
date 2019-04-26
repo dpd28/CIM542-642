@@ -64,7 +64,9 @@ Here is the [finished code](https://github.com/dpd28/CIM542-642/blob/master/Spac
 
 ### One Button
 
-[Remember to add one button]
+![One button bike pump interaction flow](https://github.com/dpd28/CIM542-642/blob/master/images/Bike%20Pump%20One%20Button.jpg)
+![One button bike pump interaction flow](images/Bike Pump One Button.jpg)
+
 
 ## Week 4
 
@@ -94,7 +96,7 @@ I chose to track and observe people as I walked around campus and during activit
 
 ### Knock Lock
 
-(Deb - add the knock lock assignment!)
+![Knock lock exercise](images/Knock_Lock_IMG_8469.JPG)
 
 ## Week 7
 
@@ -119,8 +121,18 @@ Check out my [midterm project here](https://github.com/dpd28/CIM542-642/tree/mas
 Not sure why this link isn't working :-(
 
 ## Week 11
+![](https://github.com/dpd28/CIM542-642/blob/master/images/3D_2019-04-25-0001.JPG)
+![](images/3D_2019-04-25-0001.JPG)
 
-3D Printing project!
+![Pentiometer and a 3D printed cover](images/3D-1-IMG_8044.JPG)
+https://github.com/dpd28/CIM542-642/blob/master/images/3D-1-IMG_8044.JPG
+
+![Pentiometer and a 3D printed cover](https://github.com/dpd28/CIM542-642/blob/master/images/3D-2-IMG_8047.JPG)
+![](images/3D-2-IMG_8047.JPG)
+
+![Pentiometer and a 3D printed cover](https://github.com/dpd28/CIM542-642/blob/master/images/3D-3-IMG_8048.JPG)
+![](images/3D-3-IMG_8048.JPG)
+
 
 ## Week 12 - Make
 
@@ -129,3 +141,5 @@ Not sure why this link isn't working :-(
 ## Week 14 - Make
 
 ## Week 15 - Final!
+
+The documentation for [my final project](https://github.com/dpd28/CIM542-642/tree/master/dpdFinal).
