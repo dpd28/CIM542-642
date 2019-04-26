@@ -121,7 +121,7 @@ Check out my [midterm project here](https://github.com/dpd28/CIM542-642/tree/mas
 Not sure why this link isn't working :-(
 
 ## Week 11
-![](https://github.com/dpd28/CIM542-642/blob/master/images/3D_2019-04-25-0001.JPG)
+![Button dimensions worksheet](https://github.com/dpd28/CIM542-642/blob/master/images/3D_2019-04-25-0001.JPG)
 ![](images/3D_2019-04-25-0001.JPG)
 
 ![Pentiometer and a 3D printed cover](images/3D-1-IMG_8044.JPG)
