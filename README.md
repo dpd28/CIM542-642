@@ -64,8 +64,8 @@ Here is the [finished code](https://github.com/dpd28/CIM542-642/blob/master/Spac
 
 ### One Button
 
-![One button bike pump interaction flow](https://github.com/dpd28/CIM542-642/blob/master/images/Bike%20Pump%20One%20Button.jpg)
-![One button bike pump interaction flow](images/Bike Pump One Button.jpg)
+![One button bike pump interaction flow](https://github.com/dpd28/CIM542-642/blob/master/images/BikePumpOneButton.jpg)
+![One button bike pump interaction flow](images/BikePumpOneButton.jpg)
 
 
 ## Week 4
