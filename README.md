@@ -6,11 +6,11 @@
 
 This is the Unicorn of closets. It will help you pack, get you dressed, Marie Kondo your way to savings because you really don't love those black pants anymore. For the purpose of this assignment, I focused on how this magical closet helps you pack your suitcase or any bag. Based on your inputs (screen-based) it will help select your clothes and if needed, give you room to do some shopping.
 
-![Sketches and thought process](https://github.com/dpd28/CIM542-642/blob/master/images/2019-01-24-0003.JPG)
+![Sketches and thought process](images/2019-01-24-0003.JPG)
 
 Thinking, thinking, thinking … I used to feel like I needed to draw as a designer but I'm finding that words are just as useful.
 
-![Scenes 1-3](https://github.com/dpd28/CIM542-642/blob/master/images/2019-01-24-0001.JPG)
+![Scenes 1-3](images/2019-01-24-0001.JPG)
 
 So this closet uses a screen interaction which probably doesn't fit the physical computing aspect of the project but I thought about inputs and outputs just the same.  The interactions are also based on having geolocation and other "auto" features to make the inputs easier (read: minimal touching, typing, etc.)
 
@@ -27,7 +27,7 @@ I didn't think too much about how the clothes get into the suitcase (because its
 
 3. Add the bag or suitcase to the slideout. Lights and audio also provide feedback based on the weight sensor.
 
-![Scenes 4-5](https://github.com/dpd28/CIM542-642/blob/master/images/2019-01-24-0002.JPG)
+![Scenes 4-5](images/2019-01-24-0002.JPG)
 
 4. Confirmation of selections
 
@@ -54,9 +54,9 @@ That took me awhile to figure out but I did - yay me.
 
 #### Photos
 
-![Circuit in progress](https://github.com/dpd28/CIM542-642/blob/master/images/arduio_spaceShip_IMG_6247.JPG)
+![Circuit in progress](images/arduio_spaceShip_IMG_6247.JPG)
 
-![Finished circuit](https://github.com/dpd28/CIM542-642/blob/master/images/arduino_spaceShip_IMG_6275.JPG)
+![Finished circuit](images/arduino_spaceShip_IMG_6275.JPG)
 
 Here is the [finished code](https://github.com/dpd28/CIM542-642/blob/master/Space_On_jan30a/sketch_jan30a/sketch_jan30a.ino)
 
@@ -64,9 +64,7 @@ Here is the [finished code](https://github.com/dpd28/CIM542-642/blob/master/Spac
 
 ### One Button
 
-![One button bike pump interaction flow](https://github.com/dpd28/CIM542-642/blob/master/images/BikePumpOneButton.jpg)
 ![One button bike pump interaction flow](images/BikePumpOneButton.jpg)
-
 
 ## Week 4
 
@@ -100,38 +98,34 @@ I chose to track and observe people as I walked around campus and during activit
 
 ## Week 7
 
-![Ideation full](https://github.com/dpd28/CIM542-642/blob/master/images/ideation_IMG_7871.jpg)
-![ideation detail](https://github.com/dpd28/CIM542-642/blob/master/images/ideation_IMG_7872.jpg)
+![Ideation full](images/ideation_IMG_7871.jpg)
+![ideation detail](images/ideation_IMG_7872.jpg)
 
 ## Week 8
 
-![Slide 1](https://github.com/dpd28/CIM542-642/blob/master/images/haptic-music-proposal.001.jpg)
-![Slide 2](https://github.com/dpd28/CIM542-642/blob/master/images/haptic-music-proposal.002.jpg)
-![Slide 3](https://github.com/dpd28/CIM542-642/blob/master/images/haptic-music-proposal.003.jpg)
-![Slide 4](https://github.com/dpd28/CIM542-642/blob/master/images/haptic-music-proposal.004.jpg)
-![Slide 5](https://github.com/dpd28/CIM542-642/blob/master/images/haptic-music-proposal.005.jpg)
-![Slide 6](https://github.com/dpd28/CIM542-642/blob/master/images/haptic-music-proposal.006.jpg)
-![Slide 7](https://github.com/dpd28/CIM542-642/blob/master/images/haptic-music-proposal.007.jpg)
+![Slide 1](images/haptic-music-proposal.001.jpg)
+![Slide 2](images/haptic-music-proposal.002.jpg)
+![Slide 3](images/haptic-music-proposal.003.jpg)
+![Slide 4](images/haptic-music-proposal.004.jpg)
+![Slide 5](images/haptic-music-proposal.005.jpg)
+![Slide 6](images/haptic-music-proposal.006.jpg)
+![Slide 7](images/haptic-music-proposal.007.jpg)
 
 ## Week 9  - SPRING break
 
 ## Week 10
 
-Check out my [midterm project here](https://github.com/dpd28/CIM542-642/tree/master/midtermS19) in more detail.
-Not sure why this link isn't working :-(
+Check out my [midterm project here](https://dpd28.github.io/CIM542-642/midtermS19/) in more detail.
 
 ## Week 11
-![Button dimensions worksheet](https://github.com/dpd28/CIM542-642/blob/master/images/3D_2019-04-25-0001.JPG)
-![](images/3D_2019-04-25-0001.JPG)
+
+![Button dimensions worksheet](images/3D_2019-04-25-0001.JPG)
 
 ![Pentiometer and a 3D printed cover](images/3D-1-IMG_8044.JPG)
-https://github.com/dpd28/CIM542-642/blob/master/images/3D-1-IMG_8044.JPG
 
-![Pentiometer and a 3D printed cover](https://github.com/dpd28/CIM542-642/blob/master/images/3D-2-IMG_8047.JPG)
-![](images/3D-2-IMG_8047.JPG)
+![Pentiometer and a 3D printed cover](images/3D-2-IMG_8047.JPG)
 
-![Pentiometer and a 3D printed cover](https://github.com/dpd28/CIM542-642/blob/master/images/3D-3-IMG_8048.JPG)
-![](images/3D-3-IMG_8048.JPG)
+![Pentiometer and a 3D printed cover](images/3D-3-IMG_8048.JPG)
 
 
 ## Week 12 - Make
@@ -142,4 +136,4 @@ https://github.com/dpd28/CIM542-642/blob/master/images/3D-1-IMG_8044.JPG
 
 ## Week 15 - Final!
 
-The documentation for [my final project](https://github.com/dpd28/CIM542-642/tree/master/dpdFinal).
+The documentation for [my final project](https://dpd28.github.io/CIM542-642/dpdFinal/).

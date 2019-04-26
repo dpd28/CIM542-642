@@ -40,21 +40,21 @@ The values are converted and sent through Pin 9. So, in this case, if the soundO
 
 **The components/sensors**. Separately the sensors worked great with the sample code and even when I was tooling around with the different sketches. It was exciting. But *what didn't work so great* is tying them together — haptic drive with the vibration disc and the audio input (electret mic). It's like I'm trying to put two sentences together to make it flow well and I'm stuck on not knowing the words or how they connect one to the other; sometimes writing too much and overthinking it or … I don't know.
 
-![haptic test circuit](https://github.com/dpd28/CIM542-642/blob/master/images/Haptic_Test_IMG_7322.jpg)
+![haptic test circuit](images/Haptic_Test_IMG_7322.jpg)
 
 **A lot of the code**. I used a book that was recommended to really dive in and understand what we had done so far in the semester and break it down so I could practice and understand. The Make: Learn Electronics with Arduino is hands down the best book so far. I love how it breaks down the syntax in digestible chunks.
 
 This book helped a TON.
-![Arduino MAKE book](https://github.com/dpd28/CIM542-642/blob/master/images/09-Book_IMG_7679.jpg)
+![Arduino MAKE book](images/09-Book_IMG_7679.jpg)
 
 **Blew off the disc**. I think when I was trying out different capacitors, I blew off the vibration disc connection to the haptic driver! I was trying to figure out the range to adjust the mapping (pwm) and I think that's when it blew off. Geez.
 
-![Busted haptic controller connection](https://github.com/dpd28/CIM542-642/blob/master/images/07-Broken_Haptic_IMG_7670.jpg)
+![Busted haptic controller connection](images/07-Broken_Haptic_IMG_7670.jpg)
 
 #### Testing the distance sensor
 This did not work at first using the [example sketch](https://www.arduino.cc/en/Tutorial/Ping) provided by Arduino. I'm not sure why and it could have been illness. Initially I thought it was a bad sensor but decided to try it again and [it worked with LEDs](https://youtu.be/jySApnWT1oo)!
 
-![Distance sensor Test Circuit](https://github.com/dpd28/CIM542-642/blob/master/images/01-Dist-Led-Test-Overview-IMG_7335.jpg)
+![Distance sensor Test Circuit](images/01-Dist-Led-Test-Overview-IMG_7335.jpg)
 
 #### Setting up the haptic driver
 [Playing around with the different wave forms](https://youtu.be/WMzVtQOsiHk) was fun. I tried making a tune but it isn't easy!
@@ -126,28 +126,28 @@ In terms of materials, fabric such as leather would be sturdy enough though it m
 
 **Progress images**
 
-![Making a mess](https://github.com/dpd28/CIM542-642/blob/master/images/01-WorkMess_IMG_7669.jpg)
+![Making a mess](images/01-WorkMess_IMG_7669.jpg)
 
-![Encased begin](https://github.com/dpd28/CIM542-642/blob/master/images/02-Encase_02_Mess_IMG_7666.jpg)
+![Encased begin](images/02-Encase_02_Mess_IMG_7666.jpg)
 
-![Working on the lid/cover](https://github.com/dpd28/CIM542-642/blob/master/images/03-White_Lid_Horiz_IMG_7671.jpg)
+![Working on the lid/cover](images/03-White_Lid_Horiz_IMG_7671.jpg)
 
-![Top view](https://github.com/dpd28/CIM542-642/blob/master/images/04-White_Horiz_Open_IMG_7672.jpg)
+![Top view](images/04-White_Horiz_Open_IMG_7672.jpg)
 
-![From the side](https://github.com/dpd28/CIM542-642/blob/master/images/05-Inside_IMG_7674.jpg)
+![From the side](images/05-Inside_IMG_7674.jpg)
 
-![Final 1st round encasement](https://github.com/dpd28/CIM542-642/blob/master/images/06-Gold_IMG_7677.jpg)
+![Final 1st round encasement](images/06-Gold_IMG_7677.jpg)
 
 **Finished input and output**
 
-![Finished Arduino and breadboard](https://github.com/dpd28/CIM542-642/blob/master/images/Works_03272019_IMG_7654.jpg)
+![Finished Arduino and breadboard](images/Works_03272019_IMG_7654.jpg)
 
-![Close Up of breadboard in case](https://github.com/dpd28/CIM542-642/blob/master/images/Close-Up-Finished_IMG_7780.jpg)
+![Close Up of breadboard in case](images/Close-Up-Finished_IMG_7780.jpg)
 
 **Finished Breadboard**
 
-![Final breadboard](https://github.com/dpd28/CIM542-642/blob/master/images/08-CloseUp_IMG_7628.jpg)
+![Final breadboard](images/08-CloseUp_IMG_7628.jpg)
 
-![Finished looking into encasement](https://github.com/dpd28/CIM542-642/blob/master/images/Finsihed_Guts_IMG_7778.jpg)
+![Finished looking into encasement](images/Finsihed_Guts_IMG_7778.jpg)
 
 ## See the [final version on YouTube](https://youtu.be/uxcoEpMwsCQ_).
