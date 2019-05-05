@@ -21,8 +21,8 @@ In the midterm version, I used a small box as the encasement. Because the goal w
 * The wearer needs access to the on/off switch
 * Construction requires soldering after the microcontroller is encased.
 
-![Sketches](https://github.com/dpd28/CIM542-642/blob/master/images/Wrist-Band-v2-IMG_8053.JPG)
-![Paper test v1](https://github.com/dpd28/CIM542-642/blob/master/images/Wrist-Band-v3-Paper-IMG_8380.JPG)
+![Sketches](https://github.com/dpd28/CIM542-642/raw/master/images/Wrist-Band-v2-IMG_8053.JPG)
+![Paper test v1](https://github.com/dpd28/CIM542-642/raw/master/images/Wrist-Band-v3-Paper-IMG_8380.JPG)
 ![Paper test v1 Cricut](https://github.com/dpd28/CIM542-642/raw/master/images/Wrist-Band-v3-Paper-IMG_8378.JPG)
 ![Paper test v2](https://github.com/dpd28/CIM542-642/raw/master/images/Wrist-Band-v4-Paper-IMG_8387.JPG)
 ![Leather tough v1](https://github.com/dpd28/CIM542-642/raw/master/images/Wrist-Band-Leather-IMG_8433.JPG)
