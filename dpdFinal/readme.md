@@ -57,9 +57,18 @@ This was also a test of using different weights of leather and the Cricut.
 
 **Setting up the GemmaM0**: Be sure to read the documentation for the microcontroller. Turns out, the GemmaM0 works out of the box with Circuit Python but to use with Arduino, various installations need to be made before the GemmaM0 will work properly with Arduino.   
 
+## Final Show!
+
+The End of Year show was SO MUCH FUN. I wish I could have just spent time trying out everything my fellow classmates made. Hoping to link to more pictures.
+
+![Trying out Gemma Vibe]()
+
+
 ## If I had more time …
-*Encasement design*: I really would have liked to explore this more and experiment with materials like metals to combine with the leather. This experience actually renewed my interest in jewelry design. Interesting. I think something 3D printed in combination with metal on each side plus a stronger leather would be an interesting combo. Still, I'd have to think/plan more on the design to maintain access to the on/off switch. The other thought is something made entirely out of metal or wiring; something more futuristic / modern. Hmm…
+**Encasement design**: I really would have liked to explore this more and experiment with materials like metals to combine with the leather. This experience actually renewed my interest in jewelry design. Interesting. I think something 3D printed in combination with metal on each side plus a stronger leather would be an interesting combo. Still, I'd have to think/plan more on the design to maintain access to the on/off switch. The other thought is something made entirely out of metal or wiring; something more futuristic / modern. Hmm…
 
 **Add mini lights**: This may still be possible. I have a [Neopixel jewel](https://www.adafruit.com/product/2226?gclid=EAIaIQobChMIv5Cx6MLr4QIVjRyGCh2iXAshEAAYAiAAEgJY6fD_BwE) that could provide an additional sensory experience of music. I read that haptics in combination with visuals can be a more powerful experience.
 
 **Add more vibrating motor discs**: I'm not sure if this would be too much or more helpful. It would be nice to explore and strike a balance.
+
+**Refine the code**: I'm sure there are ways to refine the code more to cover the full range of frequencies and I need to study more to fully comprehend what is happening.
