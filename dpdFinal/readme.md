@@ -9,7 +9,7 @@ More background about this project [is here](https://github.com/dpd28/CIM542-642
 ### The Ardunio FFT library
 This made my head hurt when reading through documentation about Fournier Frequency Transformation but the reason for using this library is to help translate the music through the microphone into different vibrations; meaning: reflect the variations and range of musical intonation.
 
-![FFT Lesson in PWM](https://github.com/dpd28/CIM542-642/blob/master/images/FFT_IMG_8050.JPG)
+![FFT Lesson in PWM](https://github.com/dpd28/CIM542-642/raw/master/images/FFT_IMG_8050.JPG)
 
 ### The GemmaM0
 This is a small, lightweight microcontroller; one I wanted to use because I wanted to make this project into a wearable. For audio translation, the Uno is slower and the size is too clunky to use in a wearable project.
