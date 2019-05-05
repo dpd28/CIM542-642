@@ -98,7 +98,7 @@ I chose to track and observe people as I walked around campus and during activit
 
 ## Week 7
 
-![Ideation full](images/ideation_IMG_7871.jpg)
+![Ideation full](https://github.com/dpd28/CIM542-642/raw/master/images/ideation_IMG_7871.jpg)
 ![ideation detail](images/ideation_IMG_7872.jpg)
 
 ## Week 8

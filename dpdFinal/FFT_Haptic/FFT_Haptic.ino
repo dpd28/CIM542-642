@@ -63,9 +63,9 @@ void setup()
 {
   sampling_period_us = round(1000000 * (1.0 / samplingFrequency));
   Serial.begin(115200);
-  while (!Serial) {
+ // while (!Serial) {
     ; // wait for serial port to connect. Needed for native USB
-  }
+ // }
   Serial.println("Ready");
 
   pinMode(1, OUTPUT);
@@ -104,49 +104,53 @@ void loop()
   // delay(2000); /* Repeat after delay */
 }
 
-void PrintVector(double *vData, uint16_t bufferSize, uint8_t scaleType)
-{
+void PrintVector(double *vData, uint16_t bufferSize, uint8_t scaleType) {
   for (uint16_t i = 0; i < bufferSize; i++) {
     double abscissa;
     /* Print abscissa value */
-        switch (scaleType)
-        {
-          case SCL_INDEX:
-            abscissa = (i * 1.0);
-    	break;
-          case SCL_TIME:
-            abscissa = ((i * 1.0) / samplingFrequency);
-    	break;
-          case SCL_FREQUENCY:
-            abscissa = ((i * 1.0 * samplingFrequency) / samples);
-    	break;
+    switch (scaleType)
+    {
+      case SCL_INDEX:
+        abscissa = (i * 1.0);
+        break;
+      case SCL_TIME:
+        abscissa = ((i * 1.0) / samplingFrequency);
+        break;
+      case SCL_FREQUENCY:
+        abscissa = ((i * 1.0 * samplingFrequency) / samples);
+        break;
+    }
+
+    //    Serial.print("VDATA: ");
+    //      Serial.println(vData[i], 4);
+    //      Serial.print(" ");
+
+    //   if (vData[i] > 7 && vData[i] < 50) { //  low, mid, high values 1024 is top - abscissa > 400 && abscissa < 500
+
+    if (abscissa > 400 && abscissa < 500) {
+      if (scaleType == SCL_FREQUENCY) {
+        Serial.print(abscissa, 6);
+        Serial.print("Hz ");
+        Serial.println(" ");
+        Serial.print("VDATA: ");
+        Serial.println(vData[i], 4);
+        Serial.print(" ");
+       //   analogWrite(1, 100);
+
+        if (vData[i] > 300) {
+          cur = map(vData[i], 300, 1023, 0, 255);
+          analogWrite(1, cur);
         }
+      }
 
-    Serial.print("VDATA: ");
-      Serial.println(vData[i], 4);
-      Serial.print(" ");
-    if (vData[i] > 7 && vData[i] < 50) { //  low, mid, high values 1024 is top - abscissa > 400 && abscissa < 500
-      // Serial.print(abscissa, 6);
-      //  if(scaleType==SCL_FREQUENCY)
-      Serial.print("Hz ");
-      Serial.println(" ");
-      Serial.print("VDATA: ");
-      Serial.println(vData[i], 4);
-      Serial.print(" ");
-
-      cur = map(vData[i], 1, 50, 0, 255); // first is audio input, second is haptic output
-
-      Serial.print("this is cur ");
-      Serial.println(cur);
-      //  Serial.print("this is abscissa "); // so long abscissa!
-      //  Serial.print(abscissa);
 
     }
-    else if (vData[i] < 7 || vData[i] == 7) {
-      cur = 0;
-    }
-    analogWrite(1, cur);
+
+
+
+
 
   }
-  Serial.println();
+  //  Serial.println();
+  //
 }
