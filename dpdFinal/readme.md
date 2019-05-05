@@ -23,15 +23,15 @@ In the midterm version, I used a small box as the encasement. Because the goal w
 
 ![Sketches](https://github.com/dpd28/CIM542-642/blob/master/images/Wrist-Band-v2-IMG_8053.JPG)
 ![Paper test v1](https://github.com/dpd28/CIM542-642/blob/master/images/Wrist-Band-v3-Paper-IMG_8380.JPG)
-![Paper test v1 Cricut](https://github.com/dpd28/CIM542-642/blob/master/images/Wrist-Band-v3-Paper-IMG_8378.JPG)
-![Paper test v2](https://github.com/dpd28/CIM542-642/blob/master/images/Wrist-Band-v4-Paper-IMG_8387.JPG)
-![Leather tough v1](https://github.com/dpd28/CIM542-642/blob/master/images/Wrist-Band-Leather-IMG_8433.JPG)
-![Softer leather](https://github.com/dpd28/CIM542-642/blob/master/images/LeatherBlack_circuit_IMG_8519.JPG)
-![Red leather xacto](https://github.com/dpd28/CIM542-642/blob/master/images/LeatherRed_circuit_IMG_8549.JPG)
+![Paper test v1 Cricut](https://github.com/dpd28/CIM542-642/raw/master/images/Wrist-Band-v3-Paper-IMG_8378.JPG)
+![Paper test v2](https://github.com/dpd28/CIM542-642/raw/master/images/Wrist-Band-v4-Paper-IMG_8387.JPG)
+![Leather tough v1](https://github.com/dpd28/CIM542-642/raw/master/images/Wrist-Band-Leather-IMG_8433.JPG)
+![Softer leather](https://github.com/dpd28/CIM542-642/raw/master/images/LeatherBlack_circuit_IMG_8519.JPG)
+![Red leather xacto](https://github.com/dpd28/CIM542-642/raw/master/images/LeatherRed_circuit_IMG_8549.JPG)
 
-![Snaps](https://github.com/dpd28/CIM542-642/blob/master/images/Snap01_IMG_8587.JPG)
-![Snaps 2](https://github.com/dpd28/CIM542-642/blob/master/images/Snap02_IMG_8590.JPG)
-![Snap ring random](https://github.com/dpd28/CIM542-642/blob/master/images/Snap03_IMG_8595.JPG)
+![Snaps](https://github.com/dpd28/CIM542-642/raw/master/images/Snap01_IMG_8587.JPG)
+![Snaps 2](https://github.com/dpd28/CIM542-642/raw/master/images/Snap02_IMG_8590.JPG)
+![Snap ring random](https://github.com/dpd28/CIM542-642/raw/master/images/Snap03_IMG_8595.JPG)
 
 **What I modified** I modified the design by using different colors of leather and adjusted the shape of the interior opening. It's a small adjustment but I experimented with several shapes.
 
@@ -44,9 +44,9 @@ This was also a test of using different weights of leather and the Cricut.
 
 (*Update: It turns out the GemmaM0 was not fried but there was some kind of short. This, and the code I wrote is messed up. At the moment I don't understand what I did that worked on the Uno but not the GemmaM0. To be investigated.())
 
-![Arduino Uno backup](https://github.com/dpd28/CIM542-642/blob/master/images/IMG_8645.JPG)
+![Arduino Uno backup](https://github.com/dpd28/CIM542-642/raw/master/images/IMG_8645.JPG)
 
-![Testing code](https://github.com/dpd28/CIM542-642/blob/master/images/Mapping_IMG_8643.JPG)
+![Testing code](https://github.com/dpd28/CIM542-642/raw/master/images/Mapping_IMG_8643.JPG)
 
 * Leather and the Cricut: The softer the leather, the greater the fuzzy explosion. Here are a few tips:
 
