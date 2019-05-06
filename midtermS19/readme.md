@@ -99,7 +99,7 @@ In its current iteration, it isn't very portable but after connecting it to the 
 
 **Draw a step by step diagram of the interaction**
 
-(Deb - add your flow chart)
+![Flow Chart](https://github.com/dpd28/CIM542-642/raw/master/images/Audio-Vibe%20Flow.jpg)
 
 ### Explain how the project is used?**
 
@@ -149,7 +149,5 @@ In terms of materials, fabric such as leather would be sturdy enough though it m
 ![Final breadboard](https://github.com/dpd28/CIM542-642/raw/master/images/08-CloseUp_IMG_7628.jpg)
 
 ![Finished looking into encasement](https://github.com/dpd28/CIM542-642/raw/master/images/Finsihed_Guts_IMG_7778.jpg)
-
-The code is ![here](https://github.com/dpd28/CIM542-642/raw/master/dpdFinal/FFT_Haptic/FFT_Haptic.ino)
 
 ## See the [final version on YouTube](https://youtu.be/uxcoEpMwsCQ_).
