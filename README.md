@@ -117,13 +117,26 @@ I chose to track and observe people as I walked around campus and during activit
 
 Check out my [midterm project here](https://dpd28.github.io/CIM542-642/midtermS19/) in more detail.
 
-## Week 11
+## Week 11 - 3D Printer and OnShape
 
 ![Button dimensions worksheet](images/3D_2019-04-25-0001.JPG)
 
 This assignment to use OnShape and the 3D printer was challenging for me. I think because it is hard for me learn software and understand concept at the same time? Hmm… All I know is that when my shape was finally printed, I understood what others were making and how I could have pushed things a bit further.
 
-My idea was to have the white part stick out because it seemed to be the only way anyone would be able to turn the knob. *Hello* I just didn't  *get* how to create a shape that wouldn't be a barrier but now I understand that there needed to be an inside shape that would fit perfectly over the knob so a person could turn it; kinda like an oven mitt that isn't shaped like your hand. 
+My idea was to have the white part stick out because it seemed to be the only way anyone would be able to turn the knob. *Hello* I just didn't  *get* how to create a shape that wouldn't be a barrier but now I understand that there needed to be an inside shape that would fit perfectly over the knob so a person could turn it; kinda like an oven mitt that isn't shaped like your hand.
+
+### OnShape
+
+![OnShape Dashboard](https://github.com/dpd28/CIM542-642/raw/master/images/OnShape.800px.jpg)
+I still think this software isn't intuitive but apparently it is better than most which is a scary thought.
+
+![Switch Button Shape](https://github.com/dpd28/CIM542-642/raw/master/images/buttonShape.800px.jpg)
+The mini "box" for the switch button. I think this was printed in class and I lost it.
+
+![Pentiometer Shape](https://github.com/dpd28/CIM542-642/raw/master/images/PentiometerShape.800px.jpg)
+OK this was hard for me to grasp. My first attempt was hilarious because apparently I had made it too large and it would take **8 hours to print**! THat's the first sign I knew I had done something wrong. I had also made too many pieces separately. *Sign* Thankfully Zeven was around to help.
+
+### Printed Pieces
 
 ![Pentiometer and a 3D printed cover](images/3D-1-IMG_8044.JPG)
 
@@ -135,7 +148,7 @@ The bottom fits!
 
 ![Pentiometer and a 3D printed cover](images/3D-3-IMG_8048.JPG)
 
-But the hole in the top of the shape does not. Disappointed but think its cool at the same time.
+But the hole in the top of the shape does not. Disappointed but think its cool at the same time. Alas, I lost my switch printed piece and that didn't fit either so at least now I need to make the dimensions just a tad bit larger.
 
 
 ## Week 12 - Make
