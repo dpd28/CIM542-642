@@ -72,6 +72,8 @@ The End of Year show was SO MUCH FUN. I wish I could have just spent time trying
 ![Testing](https://github.com/dpd28/CIM542-642/raw/master/images/gemmavibe-finalshow2019.800px.jpg)
 ![Finished uploading code](https://github.com/dpd28/CIM542-642/raw/master/images/Gemma_Vibe_Final_IMG_8764.jpg)
 
+The code is ![here](https://github.com/dpd28/CIM542-642/raw/master/dpdFinal/FFT_Haptic/FFT_Haptic.ino)
+
 ## If I had more time …
 **Encasement design**: I really would have liked to explore this more and experiment with materials like metals to combine with the leather. This experience actually renewed my interest in jewelry design. Interesting. I think something 3D printed in combination with metal on each side plus a stronger leather would be an interesting combo. Still, I'd have to think/plan more on the design to maintain access to the on/off switch. The other thought is something made entirely out of metal or wiring; something more futuristic / modern. Hmm…
 
@@ -79,4 +81,4 @@ The End of Year show was SO MUCH FUN. I wish I could have just spent time trying
 
 **Add more vibrating motor discs**: I'm not sure if this would be too much or more helpful. It would be nice to explore and strike a balance.
 
-**Refine the code**: I'm sure there are ways to refine the code (mapping pwm) more to cover the full range of frequencies and I need to study more to fully comprehend what is happening. 
+**Refine the code**: I'm sure there are ways to refine the code (mapping pwm) more to cover the full range of frequencies and I need to study more to fully comprehend what is happening.
