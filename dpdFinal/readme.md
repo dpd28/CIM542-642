@@ -65,7 +65,9 @@ My professor, Zeven, helped create this beauty. I don't remember what it is call
 
 ## Final Show!
 
-The End of Year show was SO MUCH FUN. I wish I could have just spent time trying out everything my fellow classmates made. Hoping to link to more pictures.
+The End of Year show was SO MUCH FUN. It was great to see people interact with what I made; offer feedback and test it.
+
+What I learned is that the encasement needs to be more sturdy for audio and haptic because the mic is heavier than the GemmaM0 and the vibration disc. 
 
 ![Detail of final project](https://github.com/dpd28/CIM542-642/raw/master/images/Gemma_Vibe_construction_IMG_8762.jpg)
 

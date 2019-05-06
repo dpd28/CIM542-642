@@ -97,8 +97,6 @@ In its current iteration, it isn't very portable but after connecting it to the 
 
 ### Storyboard the interaction
 
-**Draw a step by step diagram of the interaction**
-
 ![Flow Chart](https://github.com/dpd28/CIM542-642/raw/master/images/Audio-Vibe%20Flow.jpg)
 
 ### Explain how the project is used?**

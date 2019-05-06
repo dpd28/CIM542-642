@@ -121,11 +121,21 @@ Check out my [midterm project here](https://dpd28.github.io/CIM542-642/midtermS1
 
 ![Button dimensions worksheet](images/3D_2019-04-25-0001.JPG)
 
+This assignment to use OnShape and the 3D printer was challenging for me. I think because it is hard for me learn software and understand concept at the same time? Hmm… All I know is that when my shape was finally printed, I understood what others were making and how I could have pushed things a bit further.
+
+My idea was to have the white part stick out because it seemed to be the only way anyone would be able to turn the knob. *Hello* I just didn't  *get* how to create a shape that wouldn't be a barrier but now I understand that there needed to be an inside shape that would fit perfectly over the knob so a person could turn it; kinda like an oven mitt that isn't shaped like your hand. 
+
 ![Pentiometer and a 3D printed cover](images/3D-1-IMG_8044.JPG)
+
+For size.
 
 ![Pentiometer and a 3D printed cover](images/3D-2-IMG_8047.JPG)
 
+The bottom fits!
+
 ![Pentiometer and a 3D printed cover](images/3D-3-IMG_8048.JPG)
+
+But the hole in the top of the shape does not. Disappointed but think its cool at the same time.
 
 
 ## Week 12 - Make
