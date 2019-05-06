@@ -150,4 +150,6 @@ In terms of materials, fabric such as leather would be sturdy enough though it m
 
 ![Finished looking into encasement](https://github.com/dpd28/CIM542-642/raw/master/images/Finsihed_Guts_IMG_7778.jpg)
 
+The code is ![here](https://github.com/dpd28/CIM542-642/raw/master/dpdFinal/FFT_Haptic/FFT_Haptic.ino)
+
 ## See the [final version on YouTube](https://youtu.be/uxcoEpMwsCQ_).
