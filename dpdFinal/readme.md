@@ -67,8 +67,6 @@ My professor, Zeven, helped create this beauty. I don't remember what it is call
 
 The End of Year show was SO MUCH FUN. I wish I could have just spent time trying out everything my fellow classmates made. Hoping to link to more pictures.
 
-![Trying out Gemma Vibe](https://github.com/dpd28/CIM542-642/raw/master/images/gemmaM0-audio-Vibe-800px.jpg)
-
 ![Detail of final project](https://github.com/dpd28/CIM542-642/raw/master/images/Gemma_Vibe_construction_IMG_8762.jpg)
 
 This was probably the most difficult part of putting the final piece together. I used nuts and screws to connect the wires from the input to the GemmaM0. Tiny screws, tiny exposed pieces of wire; lots of frustration. BUT, I did it. Yay, me.
@@ -76,6 +74,8 @@ This was probably the most difficult part of putting the final piece together. I
 ![Finished uploading code](https://github.com/dpd28/CIM542-642/raw/master/images/Gemma_Vibe_Final_IMG_8764.jpg)
 
 ![Testing](https://github.com/dpd28/CIM542-642/raw/master/images/gemmavibe-finalshow2019.800px.jpg)
+
+![Trying out Gemma Vibe](https://github.com/dpd28/CIM542-642/raw/master/images/gemmaM0-audio-Vibe-800px.jpg)
 
 The code is [here](https://github.com/dpd28/CIM542-642/blob/master/dpdFinal/FFT_Haptic/FFT_Haptic.ino) and below:
 
