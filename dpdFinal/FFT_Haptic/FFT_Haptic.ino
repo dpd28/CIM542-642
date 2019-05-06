@@ -129,28 +129,13 @@ void PrintVector(double *vData, uint16_t bufferSize, uint8_t scaleType) {
 
     if (abscissa > 400 && abscissa < 500) {
       if (scaleType == SCL_FREQUENCY) {
-        Serial.print(abscissa, 6);
-        Serial.print("Hz ");
-        Serial.println(" ");
-        Serial.print("VDATA: ");
-        Serial.println(vData[i], 4);
-        Serial.print(" ");
-       //   analogWrite(1, 100);
-
         if (vData[i] > 300) {
           cur = map(vData[i], 300, 1023, 0, 255);
           analogWrite(1, cur);
         }
       }
 
-
     }
 
-
-
-
-
   }
-  //  Serial.println();
-  //
 }
