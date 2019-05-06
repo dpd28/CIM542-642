@@ -72,7 +72,7 @@ The End of Year show was SO MUCH FUN. I wish I could have just spent time trying
 ![Testing](https://github.com/dpd28/CIM542-642/raw/master/images/gemmavibe-finalshow2019.800px.jpg)
 ![Finished uploading code](https://github.com/dpd28/CIM542-642/raw/master/images/Gemma_Vibe_Final_IMG_8764.jpg)
 
-The code is [here](https://github.com/dpd28/CIM542-642/blob/master/dpdFinal/FFT_Haptic/FFT_Haptic.ino)
+The code is [here](https://github.com/dpd28/CIM542-642/blob/master/dpdFinal/FFT_Haptic/FFT_Haptic.ino) and below:
 
 
 ~~~~
